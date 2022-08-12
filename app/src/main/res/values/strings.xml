@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="txt_label_business_card">Business Card</string>
+    <string name="cd_add_card_button">Add Card</string>
+    <string name="cd_close_button">Close</string>
+    <string name="txt_new_business_card">New Business Card</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_phone_number">Phone Number</string>
+    <string name="hint_e_mail">E-mail</string>
+    <string name="hint_company_name">Company Name</string>
+    <string name="hint_card_color">Card Color</string>
+    <string name="txt_confirm">Confirm</string>
+</resources>
