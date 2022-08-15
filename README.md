@@ -14,7 +14,7 @@ Projeto inspirado no aplicativo criado no Bootcamp Santander Mobile da plataform
 
 - **Descrição:**
 
-O projeto implica em um aplicativo de duas telas aonde a primeira é exibida vazia, somente com um botão para o usuário clicar. <br>
+O projeto consiste em um aplicativo de duas telas aonde a primeira é exibida vazia, somente com um botão para o usuário clicar. <br>
 Ao clicar no botão, o usuário é levado a uma segunda tela aonde o mesmo digita suas informações tais como nome, telefone, e-mail, empresa e a cor desejada do cartão. <br>
 Ao clicar no botão de confirmar é salvada as informações, a segunda tela é fechada e o app retorna para a primeira tela já com o cartão criado com as informações disponibilizadas pelo usuário. <br>
 Há ainda a possibilidade de clicar no cartão criado e compartilhar em outros aplicativos a imagem do mesmo no formato JPEG. <br>
