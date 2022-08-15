@@ -11,4 +11,5 @@
     <string name="hint_card_color">Card Color</string>
     <string name="txt_confirm">Confirm</string>
     <string name="toast_show_success">Card successfully registered.</string>
+    <string name="txt_share">Share</string>
 </resources>
