@@ -1,6 +1,6 @@
-# Business Card
+<h1 align="center"> Business Card</h1>
 
-## Aplicativo de criação de cartão de visitas. <br>
+<h2 align="center">Aplicativo de criação de cartão de visitas</h2>
 Projeto inspirado no aplicativo criado no Bootcamp Santander Mobile da plataforma Digital Innovation One.
 
 - **Tecnologias utilizadas:**
