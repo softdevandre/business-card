@@ -16,7 +16,7 @@
 
 O projeto consiste em um aplicativo de duas telas aonde a primeira é exibida vazia, somente com um botão para o usuário clicar. <br>
 Ao clicar no botão, o usuário é levado a uma segunda tela aonde o mesmo digita suas informações tais como nome, telefone, e-mail, empresa e a cor desejada do cartão. <br>
-Ao clicar no botão de confirmar é salvada as informações, a segunda tela é fechada e o app retorna para a primeira tela já com o cartão criado com as informações disponibilizadas pelo usuário. <br>
+Ao clicar no botão de confirmar é salva as informações, a segunda tela é fechada e o app retorna para a primeira tela já com o cartão criado com as informações disponibilizadas pelo usuário. <br>
 Há ainda a possibilidade de clicar no cartão criado e compartilhar em outros aplicativos a imagem do mesmo no formato JPEG. <br>
 Os cartões criados ficam salvos na banco de dados do aparelho e assim, mesmo que o usuário feche o aplicativo, ao abrir novamente estarão ainda todos disponíveis na tela primeira tela.
 
